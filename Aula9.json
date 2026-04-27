@@ -1,0 +1,18 @@
+{
+    "nome": "Danton Melo",
+    "idade": 31,
+    "email": "danton.melo@gmail.com",
+    "ativo": true,
+    "telefone": null,
+    "skills": [
+        "JavaScript",
+        "Node.js",
+        "React.js"
+    ],
+    "endereço":{
+        "rua": "Rua Osvaldo Cruz",
+        "numero": 510,
+        "cidade": "Rio Grande do Sul",
+        "estado": "SP"
+    }
+}
